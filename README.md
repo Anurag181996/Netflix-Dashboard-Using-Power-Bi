@@ -45,7 +45,6 @@ The goal of this project is to practice creating and interpreting different type
 
 Dataset: https://www.kaggle.com/shivamb/netflix-shows .
 
-My Notebook : https://www.kaggle.com/code/nidhiy07/netflix-data-analysis
 
 **Netflix Data Analysis Using Power Bi Dashboard**
 
