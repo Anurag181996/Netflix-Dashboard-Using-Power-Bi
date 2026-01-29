@@ -5,7 +5,9 @@ In this Project I have analyze and gain insight of the kind of content available
 **Roadmap**
 Data subset collected from kaggle: https://www.kaggle.com/shivamb/netflix-shows .
 Loading Libraries
+
 Data Cleaning & Finding Missing values
+
 Data Visualization
 
 **Data Visualization**
